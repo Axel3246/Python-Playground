@@ -14,8 +14,8 @@ def getValidWord(words):
 def hangman():
     word = getValidWord(words)
     wordLetters = set(word) # letters of word
-    print(word)
-    print(wordLetters)
+    #print(word)
+    #print(wordLetters)
     alphabet = set(string.ascii_uppercase)
     used_letters = set() # letters guessed
         
