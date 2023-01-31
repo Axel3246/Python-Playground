@@ -1,3 +1,18 @@
+'''
+Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+You must implement a solution with a linear runtime complexity and use only constant extra space.
+
+Example 1:
+
+Input: nums = [2,2,1]
+Output: 1
+Example 2:
+
+Input: nums = [4,1,2,1,2]
+Output: 4
+'''
+
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
         
@@ -7,24 +22,3 @@ class Solution:
             hmap[i] = 1 + hmap.get(i,0)
         # Return min key - value matching
         return min(hmap, key = hmap.get)
-    
-'''
-OTHER SOLUTIONS USING ^
-class Solution:
-    def singleNumber(self, nums: List[int]) -> int:
-        res = 0 #n ^ 0 = n 
-        
-        for n in nums:
-            
-            res = n ^ res 
-            print(n,res)
-        
-        return res
-        
-        it does the XOR operation on the bit representation of the number;
-
-8 => 1000
-15 =>1111
-8 ^ 15 = 7 => 0111
-7 ^ 8 = 15 => 1111
-'''
