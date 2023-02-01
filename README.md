@@ -1,8 +1,9 @@
 # Welcome to Python-Playground!
 
-<img src="/Users/axelhernandez/Desktop/ITESM/misKompas/misCompas/ProgrammingWPython/ReadMe/Misc/py.gif">
+<p align="center">
+    <img src="https://github.com/Axel3246/Python-Playground/blob/main/ReadMe/py.gif" class="center" width="40%" height="40%">
+</p>
 
-![Alt Text](https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif)
 Python is a high-level, interpreted programming language that is easy to learn and provides a large standard library for various tasks. It is a versatile language that can be used for web development, scientific computing, data analysis, artificial intelligence, and more.
 
 In this repository, you will find a collection of my projects, experiments, problem solving, and studies in Python. Feel free to browse through the repository and leave a comment if you have any questions or feedback.
@@ -23,9 +24,3 @@ Happy coding!
     - Expect more projects in the near future!
 
 ## Thanks for passing by!
-
-
-
-
-   
-
