@@ -22,5 +22,6 @@ Happy coding!
 3. [Projects](https://github.com/Axel3246/Python-Playground/tree/main/Projects)
     - Here you'll find some of the projects I've made in Python.
     - Expect more projects in the near future!
+    - **NEW**: Find an amazing traffic simulation agent [here](https://github.com/Axel3246/Smart-TrafficAgent-TEC)
 
 ## Thanks for passing by!
