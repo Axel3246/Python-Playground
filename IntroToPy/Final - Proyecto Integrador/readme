@@ -1,0 +1,7 @@
+In this project I worked with a team of 5 people to create a program that could help students with their math themes.
+
+Here, I was repsonsible for the following functions:
+- niveldos()
+- seleccionDos()
+- seleccion()
+As well as the creation of the if conditional to display the score of the student (this can be found at the bottom of each level).
