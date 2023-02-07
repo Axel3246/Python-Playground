@@ -24,4 +24,11 @@ Happy coding!
     - Expect more projects in the near future!
     - **NEW**: Find an amazing traffic simulation agent [here](https://github.com/Axel3246/Smart-TrafficAgent-TEC)
 
+## Contributors
+
+<a href="https://github.com/axel3246/Python-playground/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=axel3246/Python-playground" />
+</a>
+
+
 ## Thanks for passing by!
